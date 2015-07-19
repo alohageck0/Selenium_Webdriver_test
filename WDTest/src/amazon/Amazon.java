@@ -9,7 +9,7 @@ public class Amazon {
 	public static void main(String[] args) throws Exception {
 		
 		//Step1: Open Firefox 
-//		test github
+//		test github test
 		
 		WebDriver wd = new FirefoxDriver();
 		Print.printStepDate();
